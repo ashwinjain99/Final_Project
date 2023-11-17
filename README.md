@@ -19,7 +19,7 @@ I used NYS data on blood lead levels and school water quality. I coupled the dat
 ## Visuals
 I created a [Tableau Dashboard](https://github.com/ashwinjain99/Final_Project/blob/main/NY_Lead_Poisoning_Dashboard.png) to provide a space for New York parents/caretakers/guardians to look at the data from 2020. They can hopefully inform themselves of the risk and prevent lead poisoning among their children.
 
-![Dashboard]("https://github.com/ashwinjain99/Final_Project/blob/main/NY_Lead_Poisoning_Dashboard.png")
+![NY_Lead_Poisoning_Dashboard](https://github.com/ashwinjain99/Final_Project/assets/52891183/553288f6-d1d0-46a7-adf1-d229ba283f53)
 
 ## Data Sources
 Childhood Blood Lead Testing and Elevated Incidence by Birth Year and Zip Code: Beginning 2000 <br>
