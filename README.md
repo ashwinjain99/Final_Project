@@ -19,13 +19,11 @@ I used NYS data on blood lead levels and school water quality. We coupled the da
 ## Visuals
 I created a Tableau Dashboard to provide a space for New York parents/caretakers/guardians to look at the data from 2020. They can hopefully inform themselves of the risk and prevent lead poisoning among their children.
 
-Here is a snapshot of the dashboard: dashboard_1
-
 ## Data Sources
-Childhood Blood Lead Testing and Elevated Incidence by Birth Year and Zip Code: Beginning 2000 
+Childhood Blood Lead Testing and Elevated Incidence by Birth Year and Zip Code: Beginning 2000 <br>
 https://health.data.ny.gov/Health/Childhood-Blood-Lead-Testing-and-Elevated-Incidenc/dyed-4zxh
 
-Lead Testing in School Drinking Water Sampling and Results: Compliance Year 2020 
+Lead Testing in School Drinking Water Sampling and Results: Compliance Year 2020 <br>
 https://health.data.ny.gov/Health/Lead-Testing-in-School-Drinking-Water-Sampling-and/4n6n-zu56
 
 Centers for Disease Control and Prevention/ Agency for Toxic Substances and Disease Registry/ Geospatial Research, Analysis, and Services Program. CDC/ATSDR Social Vulnerability Index. 2020. Database. New York.
