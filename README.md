@@ -2,7 +2,7 @@
 Machine learning models to identify children at risk for lead poisoning.
 
 ## Table of Contents
-- Background
+- [Background](#Background)
 - Visuals
 - Data Sources
 - Acknowledgements
