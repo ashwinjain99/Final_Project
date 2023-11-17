@@ -1,6 +1,12 @@
 # Project 4 Childhood Lead Poisoning Prevention
 Machine learning models to identify children at risk for lead poisoning.
 
+## Table of Contents
+- Background
+- Visuals
+- Data Sources
+- Acknowledgements
+
 ## Background
 Lead poisoning can cause irreversible neurological damage in children. Lead in drinking water or paint are typical sources of lead poisoning. Currently, public health focuses response after children test for elevated lead levels. But we may be able to get ahead of the curve by using machine learning models. More information on childhood lead poisoning prevention can be found at the CDC.
 
@@ -23,3 +29,6 @@ Lead Testing in School Drinking Water Sampling and Results: Compliance Year 2020
 https://health.data.ny.gov/Health/Lead-Testing-in-School-Drinking-Water-Sampling-and/4n6n-zu56
 
 Centers for Disease Control and Prevention/ Agency for Toxic Substances and Disease Registry/ Geospatial Research, Analysis, and Services Program. CDC/ATSDR Social Vulnerability Index. 2020. Database. New York.
+
+## Acknowledgements
+This project was a part of the University of Berkely Data Visualization Bootcamp (2023). The project is focused on working together to solve, analyze, and visualize a problem using machine learning (ML)
