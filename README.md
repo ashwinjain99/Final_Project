@@ -8,13 +8,13 @@ Machine learning models to identify children at risk for lead poisoning.
 - [Acknowledgements](#Acknowledgements)
 
 ## Background
-Lead poisoning can cause irreversible neurological damage in children. Lead in drinking water or paint are typical sources of lead poisoning. Currently, public health focuses response after children test for elevated lead levels. But we may be able to get ahead of the curve by using machine learning models. More information on childhood lead poisoning prevention can be found at the CDC.
+Lead poisoning can cause irreversible neurological damage in children. Lead in drinking water or paint are typical sources of lead poisoning. Currently, public health focuses response after children test for elevated lead levels. I want to be able to get ahead of the curve by using machine learning models. More information on childhood lead poisoning prevention can be found at the CDC.
 
 ## Timeframe
 The data is limited to 2020.
 
 ## Modeling
-I used NYS data on blood lead levels and school water quality. We coupled the data with the Social Vulnerability Index data from CDC, which includes demographics and housing data. The machine learning models predicted childhood lead exposure by using the aforementioned data.
+I used NYS data on blood lead levels and school water quality. I coupled the data with the Social Vulnerability Index data from CDC, which includes demographics and housing data. The machine learning models predicted childhood lead exposure by using the aforementioned data.
 
 ## Visuals
 I created a Tableau Dashboard to provide a space for New York parents/caretakers/guardians to look at the data from 2020. They can hopefully inform themselves of the risk and prevent lead poisoning among their children.
